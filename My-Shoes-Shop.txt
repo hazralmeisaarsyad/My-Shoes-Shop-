@@ -1,6 +1,6 @@
 Model-model sepatu yang tersedia di my shoes shop
-- Sendal
-- Sepatu kets
+- sendal
+- sepatu kets
 - sepatu high heels 
 - sepatu olahraga
-- kaos kaki
+- sepatu roda
